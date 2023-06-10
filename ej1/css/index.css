@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(188, 217, 243);
+}
+h1 {
+  font-family: 'Comic Sans MS';
+  font-style: italic;
+}
+h2 {
+  font-family: 'MV Boli';
+  font-style: italic;
+}
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+  font-size: medium;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+em{
+  font: 0.7em 'MV Boli';
+}

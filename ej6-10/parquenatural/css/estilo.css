@@ -1,0 +1,55 @@
+body {
+  max-width: 900px;
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: rgb(59, 185, 54);
+  margin-bottom: -7px;
+}
+h3 {
+  color: orange;
+}
+span {
+  color: orange;
+}
+.left {
+  float: left;
+  margin-top: 65px;
+}
+.border {
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 1px solid black;
+  background: linear-gradient(
+    rgb(199, 199, 199),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255),
+    rgb(255, 255, 255),
+    rgb(199, 199, 199)
+  );
+}
+.window {
+  margin-left: 140px;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+  border: 1px solid;
+  background: linear-gradient(white 33%, rgb(164, 245, 109));
+  width: auto;
+  margin: 5px;
+  padding: 5px;
+}
+li.uno {
+  background: linear-gradient(white 33%, rgb(238, 158, 66));
+}
+li.dos {
+  background: linear-gradient(white 33%, rgb(238, 158, 66));
+}
+img {
+  margin: 5px 20px;
+}

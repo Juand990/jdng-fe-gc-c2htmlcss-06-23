@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(238, 238, 185);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(25, 29, 66);
+  background-color: rgb(236, 214, 85);
+}
+h2 {
+  font-size: 2em;
+  color: rgb(112, 121, 204);
+}
+
+p {
+  color: rgb(55, 62, 126);
+  font-size: 1.3em;
+}
+span {
+  color: rgb(25, 29, 66);
+  font-size: 1em;
+}
+h3 {
+  font-size: 1.5em;
+  color: rgb(69, 79, 175);
+}
+li {
+  list-style: none;
+  color: rgb(25, 29, 66);
+  font-size: 1em;
+}
